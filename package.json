@@ -35,7 +35,7 @@
     "carey-user": "^0.1.0",
     "core-js": "^2.5.4",
     "echarts": "^5.0.2",
-    "libphonenumber-js": "^1.9.6",
+    "libphonenumber-js": "^1.10.20",
     "moment": "^2.29.1",
     "ngx-echarts": "^6.0.1",
     "ngx-flag-picker": "^11.1.0",
