@@ -34,7 +34,7 @@
     "carey-url-util": "0.0.1",
     "carey-user": "^0.1.0",
     "core-js": "^2.5.4",
-    "echarts": "^5.0.2",
+    "echarts": "^5.4.2",
     "libphonenumber-js": "^1.9.6",
     "moment": "^2.29.1",
     "ngx-echarts": "^6.0.1",
